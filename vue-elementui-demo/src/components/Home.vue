@@ -6,7 +6,7 @@
 export default {
   data () {
     return {
-      msg: '首页'
+      msg: '首页-='
     }
   }
 }

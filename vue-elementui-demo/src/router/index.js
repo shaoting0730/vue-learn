@@ -1,29 +1,27 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Index from '@/components/Index'
+import Home from '@/components/Home'
 import Config from '@/components/Config'
 import Application from '@/components/Application'
-import Home from '@/components/Home'
 
 Vue.use(Router)
 
 export default new Router({
   routes: [
     {
-      path: '/index',
-      name: 'Index',
-      component: Index
-    },
-    {
-      path: '/Home',
+      path: '/',
       component: Home
     },
     {
-      path: '/Config',
+      path: '/index',
+      component: Home
+    },
+    {
+      path: '/config',
       component: Config
     },
     {
-      path: '/Application',
+      path: '/application',
       component: Application
     }
   ]
