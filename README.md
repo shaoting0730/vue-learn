@@ -1,4 +1,6 @@
 # vue学习记录
+   
+   [ vue2.0基础学习](  https://github.com/pheromone/vue )  <br/>
    [ vue2.0-learn ](   https://github.com/pheromone/vue-learn/tree/main/vue2.0-learn )  <br/>
    [ vue-element-ui ](   https://github.com/pheromone/vue-learn/tree/main/vue-elementui-demo )   <br/>
    [ vue-webpack-todos-demo ](     https://github.com/pheromone/vue-learn/tree/main/vue-webpack-demo )   <br/>
