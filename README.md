@@ -1,5 +1,6 @@
 # vue学习记录
-   
+
+   [ vue文档](  http://caibaojian.com/vue/ )  <br/>
    [ vue基础学习](  https://github.com/pheromone/vue )  <br/>
    [ vue2.0-learn ](   https://github.com/pheromone/vue-learn/tree/main/vue2.0-learn )  <br/>
    [ vue-element-ui ](   https://github.com/pheromone/vue-learn/tree/main/vue-elementui-demo )   <br/>
